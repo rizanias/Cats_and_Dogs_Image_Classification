@@ -1,0 +1,9 @@
+# url dataset
+https://www.kaggle.com/chetankv/dogs-cats-images
+
+
+# url dataset di google drive untuk model
+https://drive.google.com/drive/folders/1Gun_RRH7UwY6No9hc752Ixu3VTflRYIh?usp=sharing
+
+# file tambahan untuk filter
+https://drive.google.com/drive/folders/1Vhaj_Y9voP6iPLo-ZJj-CiNR4wjx69LQ?usp=sharing
